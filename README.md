@@ -1,5 +1,5 @@
 # pdf-registry
-Registry of Second Class extensions to PDF
+Registry of developer prefixes for PDF
 
 ## Instructions
 On behalf of the International Organization for Standardization (ISO) and in support of ISO 32000, Adobe maintains this registry.  It is freely open to all PDF developers following the specifications given in Annex E of ISO 32000. 
