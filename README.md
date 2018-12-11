@@ -3,7 +3,7 @@ On behalf of the International Organization for Standardization (ISO) and in sup
 
 ## Instructions
 ### Registration of a new prefix
-Create a new Issue, filling out the template to register the prefix you want to reserve. Assuming that the name has not been used already, it will be added to the publicly available XLSX file and you will receive an email confirmation.  If there is a conflict, you will be notified and can select an alternative.f
+Create a new Issue, filling out the template to register the prefix you want to reserve. Assuming that the name has not been used already, it will be added to the publicly available XLSX file and you will receive an email confirmation.  If there is a conflict, you will be notified and can select an alternative.
 
 If you wish to register multiple prefixes for your organization, please create one issue per prefix.
 
