@@ -1,5 +1,5 @@
 # PDF Name Registry
-On behalf of the International Organization for Standardization (ISO) and in support of ISO 32000, Adobe maintains this registry of the prefixes of second class names for PDF.  It is freely open to all developers and organizations following the specifications given in Annex E of ISO 32000. 
+In support of ISO 32000, Adobe maintains this registry of the prefixes of second class names for PDF.  It is freely open to all developers and organizations following the specifications given in Annex E of ISO 32000. 
 
 ## Instructions
 ### Registration of a new prefix
