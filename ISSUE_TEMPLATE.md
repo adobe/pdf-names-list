@@ -22,6 +22,12 @@
 | Title | %REPLACE ME% |
 | Email address | %REPLACE ME% |
 
+## Optional Documentation Link
+| Label | Value |
+| ------------- | ----------- |
+| URL to documentation (optional) | %REPLACE ME% |
+
+
 ## Additional Instructions
 ```
 // If this form is for updating an existing registration 
