@@ -26,13 +26,14 @@ diTe,Michael,Schubert,m.schubert@disphere.com,disphere tech GmbH,19-Jan-22,See a
 DLLB,Boris,Doubrov,boris.doubrov@duallab.com,Dual Lab,20-Dec-22,
 DMSK,István,Horváth,horvath.istvan@dmsone.hu,DMS One Zrt.,9-Dec-20,
 DUFF,Duff,Johnson,duff.johnson@pdfa.org,Duff Johnson Consulting,12-Oct-14,
-Esko,Lieven,Plettinck,lieven.plettinck@esko.com,Esko Software bv,19-Jan-22,Previously registered with Adobe
 ESIC,Antoine,Burckard,Antoine.Burckard@etsi.org,ETSI Electronic Signatures and Infrastructures Committee (for PAdES),29-Jul-24,https://github.com/adobe/pdf-names-list/issues/43 
+Esko,Lieven,Plettinck,lieven.plettinck@esko.com,Esko Software bv,19-Jan-22,Previously registered with Adobe
 EVSC,Robert,Evans,rob.evans@domuslocus.com,"Evansco, LLC",11-May-18,
 FICL,Bert,Van Kerckhove,bertvk@enfocus.com,Enfocus BV,20-Jan-22,Previously registered with Adobe
 FNBC,Raffael,Boesch,raffael.boesch@power.alstom.com,ALSTOM (Switzerland) Ltd,10-Feb-14,
 FOPN,Sanford E.,Bingham,sbingham@fileopen.com,FileOpen Systems Inc.,23-Sep-09,
 FOXI,Roman,Toda,roman_toda@foxitsoftware.com ,FOXIT SOFTWARE INC.,1-Aug-22,
+g10c,Werner,Koch,code@g10code.com,g10 Code GmbH,16-Jan-25,https://github.com/adobe/pdf-names-list/issues/45 
 GeoD,Daniel,Strebe,dstrebe@mapthematics.com,Mapthematics LLC,25-Jul-20,
 GFSw,Andreas,Andreas,andreas@goofyfootsoftware.com,Goofyfootsoftware,20-Jun-11,
 GGSL,Martin,Bailey,martin.bailey@globalgraphics.com,Global Graphics,22-Apr-18,
@@ -41,7 +42,6 @@ glTF,Betsy,Fanning,betsy.fanning@3dpdfconsortium.com,ISO (via the 3D PDF Consort
 GTSm,Debbie,Orf,dorf@aptech.com,ISO TC130/WG2 as described in ISO 21812,31-May-19,
 GURG,Alexei,Novikov,alexei@gurnetgroup.com,Gurnet Group LLC,7-May-10,
 GWG_,David,Zwang,david@zwang.com,Ghent Workgroup,19-Jan-22,
-g10c,Werner,Koch,code@g10code.com,g10 Code GmbH,16-Jan-25,https://github.com/adobe/pdf-names-list/issues/45 
 HEBD,Michael,Smith,smith.michael@hebcom,H-E-B Grocery,27-Feb-12,
 HEXA,Thomas,Leitner,info@gettalong.at,gettalong EDV-Dienstleistungen e.U.,4-Mar-24,https://github.com/adobe/pdf-names-list/issues/39
 HYBR,Frank,Vyncke,frankv@hybridsoftware.com,HYBRID Software Development NV,19-May-22,
@@ -52,6 +52,7 @@ ITXT,Bruno,Lowagie,bruno@1t3xt.com,1T3XT BVBA,29-Apr-09,
 K3SD,Kengo,uehara,ueharak@kthree.co.jp,"Kanrikogaku Kenkyusho, Ltd.,  Meguro Office",8-Oct-09,
 KWSQ,Troy,Rollo,adobe@kawseq.com,Kawseq Consulting Pty Ltd,,
 LMTX,J.,Hagen,j.hagen@xs4all.nl,"ConTeXt Development Team, Netherlands",7-May-24,https://github.com/adobe/pdf-names-list/issues/40 
+LTEX,Frank,Mittelbach,latex-team@latex-project.org,LaTeX Project,26-Jun-25,https://github.com/adobe/pdf-names-list/issues/50
 LTUd,Daiva,LUKŠAITĖ,d.luksaite@archyvai.lt,Office of the Chief Archivist of Lithuania,7-Nov-11,
 Mail,Peter,Wyatt,peter.wyatt@pdfa.org,PDF Association,9-Aug-23,To support EA-PDF
 MKLx,Michael,Klink,klink@csi.com,Michael Klink,7-Feb-19,
@@ -71,7 +72,7 @@ PDTH,Stephen,Manley,pdfthingys@shaw.ca,PDF Thingys,17-Dec-09,
 PHNK,Matthias,Valvekens,dev@mvalvekens.be,,26-May-25,https://github.com/adobe/pdf-names-list/issues/48
 PIER,Pierre,Choutet,pierre.choutet@laposte.net,Pierre Choutet,3-Aug-14,
 Plib,Thomas,Merz,tm@pdflib.com,PDFlib GmbH,8-Jun-02,
-PTEX,J.,Hagen,pragma@wxs.nl,PRAGMA ADE,15-Jun-20,
+PTEX,J.,Hagen,pragma@wxs.nl,PRAGMA ADE,15-Jun-20,Used by pdfTeX
 S4Cx,Ján,Hudec,info@sense4code.com,Sense4code s.r.o.,1-Dec-20,
 SCIN,Brett,McKenzie,brett.mckenzie@scinaptic.com,Scinaptic Communications,6-Aug-14,
 SETA,Jan,Slabon,jan.slabon@setasign.com,Setasign,7-Apr-16,
