@@ -1,4 +1,4 @@
-﻿Prefix,First Name,Last Name,Email,Entity/Organization Name,Create Date,Comment
+Prefix,First Name,Last Name,Email,Entity/Organization Name,Create Date,Comment
 _Y4Y,Frank,Vyncke,frank.vyncke@yin4yang.com,Yin4Yang BV,2-Aug-22,Previously registered with Adobe
 ABCp,Jos,Vernon,infohelp@websupergoo.com,Zandent Ltd,25-Jan-21,
 ADLB,Derek,Oberndorfer,doberndorfer@adlibsoftware.com,Adlib Publishing Systems,19-Oct-14,
@@ -77,6 +77,7 @@ pdfa,Duff,Johnson,duff.johnson@pdfa.org,PDF Association,6-Feb-19,"""PDFA"" canno
 PDTH,Stephen,Manley,pdfthingys@shaw.ca,PDF Thingys,17-Dec-09,
 PHNK,Matthias,Valvekens,dev@mvalvekens.be,,26-May-25,https://github.com/adobe/pdf-names-list/issues/48
 PIER,Pierre,Choutet,pierre.choutet@laposte.net,Pierre Choutet,3-Aug-14,
+PFIX,Lucia,Todova,support@pdfix.net,"PDFix, s.r.o.",30-Sep-26,https://github.com/adobe/pdf-names-list/issues/58
 Plib,Thomas,Merz,tm@pdflib.com,PDFlib GmbH,8-Jun-02,
 PTEX,J.,Hagen,pragma@wxs.nl,PRAGMA ADE,15-Jun-20,Used by pdfTeX
 PXCE,Ivan,Poberezhnyk,ivan@pdf-xchange.com,PDF-XChange Co Ltd.,9-Mar-26,https://github.com/adobe/pdf-names-list/issues/54
